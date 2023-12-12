@@ -16,8 +16,8 @@
 1. Clone this repository
 2. Move or symlink the contents of the `themes` directory into the appropriate direcctory for your system.
 	* Linux: `~/.binaryninja/themes`
-	* macOS: `~/Library/Application Support/Binary Ninja`
-	* Windows: `%APPDATA%\Binary Ninja`
+	* macOS: `~/Library/Application Support/Binary Ninja/themes`
+	* Windows: `%APPDATA%\Binary Ninja\themes`
 3. Select one of the `Rosé Pine` themes from the `ui.theme.name` dropdown in the settings.
 
 ## Gallery
